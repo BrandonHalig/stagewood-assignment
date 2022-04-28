@@ -1,7 +1,7 @@
 This is web app created with React to search for events on an SQL database
 
 
-How to Install
+Steps to Install
 
 
 Step 1.) Setup the SQL DataBase on cPanel:
