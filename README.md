@@ -8,6 +8,7 @@ Step 1) Setup the SQL DataBase on cPanel:
     Update the header variables in eventdata.php with the credentials and database name you came up with
 
 
+
 Step 2) Upload build files to cPanel Server:
 
     Using the application build files, send them to a zip file
