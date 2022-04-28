@@ -35,7 +35,7 @@ if ($eventId != null){
 }else{
     $search = " '%" . str_replace(" ","%' AND title LIKE '%",$search). "%' ";
     $sql = "SELECT id, title, startDate, endDate, (select count(*) from (SELECT title FROM event WHERE title LIKE ".$search.") as a) as count
-    FROM event WHERE title LIKE" . $search . $sortBy . " LIMIT " . 10*(intval($pageNum)-1) . ", 10";
+            FROM event WHERE title LIKE" . $search . $sortBy . " LIMIT " . 10*(intval($pageNum)-1) . ", 10";
 }
 
 $result = $conn->query($sql);
