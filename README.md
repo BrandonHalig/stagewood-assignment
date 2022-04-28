@@ -1,7 +1,7 @@
 How to Install
 
 
-Step 1) Setup the SQL DataBase on cPanel:
+Step 1.) Setup the SQL DataBase on cPanel:
 
     Within cPanel create a new MySQL Database and MySQL user
     Open phpMyAdmin, go to import, then import seed.sql
@@ -9,7 +9,7 @@ Step 1) Setup the SQL DataBase on cPanel:
 
 
 
-Step 2) Upload build files to cPanel Server:
+Step 2.) Upload build files to cPanel Server:
 
     Using the application build files, send them to a zip file
     Open file manager on cPanel and open the public_html folder
