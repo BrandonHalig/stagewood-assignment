@@ -9,7 +9,7 @@ Step 1.) Setup the SQL DataBase on cPanel:
 
 
 
-Step 2.) Upload build files to cPanel Server:
+Step 2.) Upload Build Files to cPanel Server:
 
     Using the application build files, send them to a zip file
     Open file manager on cPanel and open the public_html folder
