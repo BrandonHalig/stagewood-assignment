@@ -1,3 +1,6 @@
+This is web app created with React to search for events on an SQL database
+
+
 How to Install
 
 
